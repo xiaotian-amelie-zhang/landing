@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Inria+Serif|Lato");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Inria+Serif', serif;
+	font-size: 18px;
+	color: black;
+}
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+h2{
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
+}
+a {
+	text-decoration: none;
+}
